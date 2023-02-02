@@ -5,9 +5,8 @@ A desktop application built using C# Windows Forms for teachers to create quizze
 ## Features
 
 - Teacher can create and manage quizzes, including questions and answers.
-- Teacher can assign quizzes to specific classes or groups of students.
 - Student can attempt the quizzes assigned by their teacher and see their results immediately after submission.
-- The system generates a detailed report for teachers to track student progress and performance.
+- The system would display a detailed report for teachers to track student progress and performance.
 
 ## Requirements
 
