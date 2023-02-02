@@ -1,0 +1,12 @@
+ODE always gives ... solution?
+Function
+Curve
+BOTH
+NONE
+Option B
+Derivative of a function is itself a function?
+YES
+NO
+BOTH
+NONE
+Option C

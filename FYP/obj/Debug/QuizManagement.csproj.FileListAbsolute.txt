@@ -1,0 +1,30 @@
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\bin\Debug\FYP.exe.config
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\bin\Debug\FYP.exe
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\bin\Debug\FYP.pdb
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\QuizManagement.csproj.AssemblyReference.cache
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.logInForInstructor.resources
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.Quiz.resources
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.QuizCreation.resources
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.studentverification.resources
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.ViewRecords.resources
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.Welcome.resources
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.Properties.Resources.resources
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\QuizManagement.csproj.GenerateResource.cache
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\QuizManagement.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.exe
+C:\Users\Abdul Hafeez\source\repos\FYP\FYP\obj\Debug\FYP.pdb
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\bin\Debug\FYP.exe.config
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\bin\Debug\FYP.exe
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\bin\Debug\FYP.pdb
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\QuizManagement.csproj.AssemblyReference.cache
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.logInForInstructor.resources
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.Quiz.resources
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.QuizCreation.resources
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.studentverification.resources
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.ViewRecords.resources
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.Welcome.resources
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.Properties.Resources.resources
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\QuizManagement.csproj.GenerateResource.cache
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\QuizManagement.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.exe
+C:\Users\Abdul Hafeez\source\repos\Final Project\FYP\obj\Debug\FYP.pdb

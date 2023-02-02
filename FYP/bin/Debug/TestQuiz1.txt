@@ -1,0 +1,12 @@
+Mouse is ... Device.
+Input
+Output
+BOTH
+NONE
+Option A
+Keyboard is .. Device.
+Output
+Input
+BOTH
+NONE
+Option B

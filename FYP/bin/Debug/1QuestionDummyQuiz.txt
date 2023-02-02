@@ -1,0 +1,6 @@
+Mouse is a ..... Device.
+Input
+Output
+BOTH
+NONE
+Option A

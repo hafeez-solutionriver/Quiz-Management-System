@@ -1,0 +1,12 @@
+Mouse is a ... Device?
+Input
+Output
+BOTH
+NONE
+Option A
+Keyboard is ... Device?
+Input
+Output
+BOTH
+NONE
+Option A
